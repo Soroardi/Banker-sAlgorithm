@@ -5,10 +5,6 @@
  */
 package osprojict;
 
-/**
- *
- * @author Bidhan
- */
 public class Osprojict {
 
     /**
